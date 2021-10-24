@@ -29,3 +29,12 @@ section .text span {
   position: relative;
   display: inline-block;
 }
+
+@media (max-width: 600px) {
+  section {
+    padding: 0 40px;
+  }
+  h2.text {
+    font-size: 3em;
+  }
+}
