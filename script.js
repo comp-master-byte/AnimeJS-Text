@@ -11,7 +11,7 @@ anime.timeline({
     scale: [10,1],
     opacity: [0,1],
     easing: "easeOutExpo",
-    duration: 1500,
+    duration: 2000,
     delay: anime.stagger(100),
 })
 
@@ -21,7 +21,7 @@ anime.timeline({
     scale: [1,1],
     opacity: [1,0],
     easing: "easeOutExpo",
-    duration: 2000,
+    duration: 2500,
     delay: anime.stagger(100),
 })
 
@@ -31,7 +31,7 @@ anime.timeline({
     scale: [1,1],
     opacity: [0,1],
     easing: "easeOutExpo",
-    duration: 2000,
+    duration: 2500,
     delay: anime.stagger(100),
 })
 
@@ -41,6 +41,6 @@ anime.timeline({
     scale: [1,50],
     opacity: [1,0],
     easing: "easeOutExpo",
-    duration: 2000,
+    duration: 2500,
     delay: anime.stagger(100),
 })
